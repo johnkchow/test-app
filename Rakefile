@@ -8,3 +8,7 @@ end
 task :pcmp_35 do
   puts "PCMP-35 Just finished executing!"
 end
+
+task :pcmp_task do
+  puts "we just executed the pcmp_task!"
+end
